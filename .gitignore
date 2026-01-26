@@ -1,0 +1,22 @@
+# Environment
+.env
+.venv/
+venv/
+
+# Build artifacts
+dist/
+build/
+*.egg-info/
+src/*.egg-info/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
